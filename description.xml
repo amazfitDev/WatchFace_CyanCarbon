@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchfaceinfo>
+	<version>1.0</version>
+	<author>Dimitris Katikaridis</author>
+	<designer>Dimitris Katikaridis</designer>
+	<title>CyanCarbon</title>
+	<basedOn></basedOn>
+	<preview>sample-face.png</preview>
+	<settings>false</settings>
+	<description> A carbon-bg cyan colored face
+	</description>
+</watchfaceinfo>
